@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Welcome to the my page jejeje 👋
+## Personal interests
+- I live in Pulpite
+- I am professional football coach
 <!--
 **AureSanchz/AureSanchz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
